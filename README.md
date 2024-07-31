@@ -1,4 +1,4 @@
-# LocalSend
+# AirBridge
 
 [![CI status][ci-badge]][ci-workflow]
 
